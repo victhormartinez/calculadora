@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es6",
+        "outDir": "",
+        "rootDir": "",
+        "strict": true
+    },
+    "include": [
+        "index.ts"
+    ]
+}
+  
